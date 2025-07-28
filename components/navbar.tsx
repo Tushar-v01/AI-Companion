@@ -51,7 +51,7 @@ export const Navbar = ({ isPro }: NavbarProps) => {
 
         <ModeToggle />
 
-        <Link
+        {/* <Link
           href={links.sourceCode}
           target="_blank"
           rel="noreferrer noopener"
@@ -59,7 +59,7 @@ export const Navbar = ({ isPro }: NavbarProps) => {
         >
           <Github className="h-[1.2rem] w-[1.2rem] mr-2" />
           <span className="sr-only">Source Code</span>
-        </Link>
+        </Link> */}
 
         <UserButton afterSignOutUrl="/sign-in" />
       </div>
