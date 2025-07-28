@@ -62,16 +62,6 @@
     "url": "https://github.com/sanidhyy/companion-ai/issues",
     "email": "sanidhya.verma12345@gmail.com"
   },
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
-    }
-  ],
   "dependencies": {
     "@clerk/nextjs": "^4.31.5",
     "@clerk/themes": "^1.7.9",
